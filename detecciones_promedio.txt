@@ -1,0 +1,62 @@
+2024-11-22 21:45:01 - Camera 1 Average Detection: nan
+2024-11-22 21:45:01 - Camera 2 Average Detection: nan
+2024-11-22 21:45:02 - Camera 1 Average Detection: nan
+2024-11-22 21:45:02 - Camera 2 Average Detection: nan
+2024-11-22 21:45:03 - Camera 1 Average Detection: nan
+2024-11-22 21:45:03 - Camera 2 Average Detection: nan
+2024-11-22 21:45:04 - Camera 1 Average Detection: nan
+2024-11-22 21:45:04 - Camera 2 Average Detection: nan
+2024-11-22 21:45:05 - Camera 1 Average Detection: nan
+2024-11-22 21:45:05 - Camera 2 Average Detection: nan
+2024-11-22 21:45:07 - Camera 1 Average Detection: nan
+2024-11-22 21:45:07 - Camera 2 Average Detection: nan
+2024-11-22 21:45:08 - Camera 1 Average Detection: nan
+2024-11-22 21:45:08 - Camera 2 Average Detection: nan
+2024-11-22 21:45:09 - Camera 1 Average Detection: nan
+2024-11-22 21:45:09 - Camera 2 Average Detection: nan
+2024-11-22 21:45:10 - Camera 1 Average Detection: nan
+2024-11-22 21:45:10 - Camera 2 Average Detection: nan
+2024-11-22 21:45:11 - Camera 1 Average Detection: nan
+2024-11-22 21:45:11 - Camera 2 Average Detection: nan
+2024-11-22 21:45:12 - Camera 1 Average Detection: nan
+2024-11-22 21:45:12 - Camera 2 Average Detection: nan
+2024-11-22 21:45:13 - Camera 1 Average Detection: nan
+2024-11-22 21:45:13 - Camera 2 Average Detection: nan
+2024-11-22 21:45:14 - Camera 1 Average Detection: [ 228.28548686  166.75024414]
+2024-11-22 21:45:14 - Camera 2 Average Detection: nan
+2024-11-22 21:45:15 - Camera 1 Average Detection: [ 232.40686162  215.90146891]
+2024-11-22 21:45:15 - Camera 2 Average Detection: nan
+2024-11-22 21:45:16 - Camera 1 Average Detection: [ 231.71751126  206.01712452]
+2024-11-22 21:45:16 - Camera 2 Average Detection: nan
+2024-11-22 21:45:17 - Camera 1 Average Detection: [ 228.65181605  180.61144765]
+2024-11-22 21:45:17 - Camera 2 Average Detection: nan
+2024-11-22 21:45:18 - Camera 1 Average Detection: [ 276.39317322  177.63280106]
+2024-11-22 21:45:18 - Camera 2 Average Detection: nan
+2024-11-22 21:45:19 - Camera 1 Average Detection: [ 397.75523037  173.48741828]
+2024-11-22 21:45:19 - Camera 2 Average Detection: nan
+2024-11-22 21:45:20 - Camera 1 Average Detection: [ 251.60243879  216.59529659]
+2024-11-22 21:45:20 - Camera 2 Average Detection: nan
+2024-11-22 21:45:21 - Camera 1 Average Detection: nan
+2024-11-22 21:45:21 - Camera 2 Average Detection: nan
+2024-11-22 21:45:22 - Camera 1 Average Detection: [ 262.78453445  231.31842804]
+2024-11-22 21:45:22 - Camera 2 Average Detection: nan
+2024-11-22 21:45:23 - Camera 1 Average Detection: nan
+2024-11-22 21:45:23 - Camera 2 Average Detection: nan
+2024-11-22 21:45:24 - Camera 1 Average Detection: nan
+2024-11-22 21:45:24 - Camera 2 Average Detection: nan
+2024-11-22 21:45:25 - Camera 1 Average Detection: [ 239.90688833  122.08697128]
+2024-11-22 21:45:25 - Camera 2 Average Detection: nan
+2024-11-22 21:45:26 - Camera 1 Average Detection: [ 207.26473109  120.4382712 ]
+2024-11-22 21:45:26 - Camera 2 Average Detection: nan
+2024-11-22 21:45:27 - Camera 1 Average Detection: [ 210.30143738  115.2937088 ]
+2024-11-22 21:45:27 - Camera 2 Average Detection: nan
+2024-11-22 21:45:28 - Camera 1 Average Detection: [ 322.55336456  135.52017517]
+2024-11-22 21:45:28 - Camera 2 Average Detection: nan
+2024-11-22 21:45:29 - Camera 1 Average Detection: [ 322.45695114  176.93776894]
+2024-11-22 21:45:29 - Camera 2 Average Detection: nan
+2024-11-22 21:45:30 - Camera 1 Average Detection: [ 322.2104187   179.02815247]
+2024-11-22 21:45:30 - Camera 2 Average Detection: nan
+2024-11-22 21:45:31 - Camera 1 Average Detection: nan
+2024-11-22 21:45:31 - Camera 2 Average Detection: nan
+2024-11-22 21:45:32 - Camera 1 Average Detection: nan
+2024-11-22 21:45:32 - Camera 2 Average Detection: nan

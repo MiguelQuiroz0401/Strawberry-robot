@@ -68,7 +68,8 @@ class MeanAPEvaluator:
         
         for class_index, class_name in enumerate(self.dataset.class_names):
             if class_index == 0: continue  # ignore background
-            prediction_path = self.eval_path / f"det_test_{class_name}.txt"
+            #prediction_path = self.eval_path / f"det_test_{class_name}.txt"
+            prediction_path = self.eval_path / f"{self.net.model_id}_det_test_{class_name}.txt"
             with open(prediction_path, "w") as f:
                 sub = results[results[:, 1] == class_index, :]
                 for i in range(sub.size(0)):
@@ -83,7 +84,8 @@ class MeanAPEvaluator:
         for class_index, class_name in enumerate(self.dataset.class_names):
             if class_index == 0:
                 continue
-            prediction_path = self.eval_path / f"det_test_{class_name}.txt"
+            #prediction_path = self.eval_path / f"det_test_{class_name}.txt"
+            prediction_path = self.eval_path / f"{self.net.model_id}_det_test_{class_name}.txt"
             ap = self.compute_average_precision_per_class(
                 self.true_case_stat[class_index],
                 self.all_gb_boxes[class_index],
@@ -232,6 +234,10 @@ if __name__ == '__main__':
     # load the model
     logging.info(f"loading model {args.model}")
     net.load(args.model)
+
+    import os
+    net.model_id = os.path.splitext(os.path.basename(args.model))[0]
+
     net = net.to(DEVICE)
     logging.info(f"loaded model {args.model}")
     
